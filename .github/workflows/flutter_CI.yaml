@@ -1,14 +1,6 @@
 name: flutter_CI
 
-on:
-  pull_request:
-    branches:
-      - dev
-      - release
-  push:
-    branches:
-      - dev
-      - release
+on: ['push', 'pull_request']
 
 jobs:
   build:
@@ -24,4 +16,7 @@ jobs:
       - run: flutter pub get
       - run: flutter analyze
       - run: flutter test --coverage
-      - run: bash <(curl -s https://codecov.io/bash)
+      - name: Coveralls
+          uses: coverallsapp/github-action@master
+          with:
+            github-token: ${{ secrets.GITHUB_TOKEN }}

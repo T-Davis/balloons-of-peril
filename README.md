@@ -1,5 +1,5 @@
-![CI](https://github.com/T-Davis/hangman-game/workflows/flutterCI/badge.svg)
-[![codecov](https://codecov.io/gh/T-Davis/hangman/branch/master/graph/badge.svg)](https://codecov.io/gh/T-Davis/hangman)
+![CI](https://github.com/T-Davis/hangman-game/workflows/flutterCI/badge.svg?branch=dev)
+[![Coverage Status](https://coveralls.io/repos/github/T-Davis/hangman-game/badge.svg?branch=dev)](https://coveralls.io/github/T-Davis/hangman-game?branch=dev)
 
 # Hangman
 ### How to Use
