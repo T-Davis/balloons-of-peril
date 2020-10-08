@@ -1,7 +1,7 @@
 ![CI](https://github.com/T-Davis/hangman-game/workflows/flutter_CI/badge.svg?branch=dev)
 [![Coverage Status](https://coveralls.io/repos/github/T-Davis/hangman-game/badge.svg?branch=dev)](https://coveralls.io/github/T-Davis/hangman-game?branch=dev)
 
-# Hangman
+# Balloons of Peril!
 ### How to Use
 Try your luck, then try again 🙃
 
