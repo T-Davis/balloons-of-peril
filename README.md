@@ -1,5 +1,5 @@
-![CI](https://github.com/T-Davis/hangman-game/workflows/flutter_CI/badge.svg?branch=dev)
-[![Coverage Status](https://coveralls.io/repos/github/T-Davis/hangman-game/badge.svg?branch=dev)](https://coveralls.io/github/T-Davis/hangman-game?branch=dev)
+![CI](https://github.com/T-Davis/balloons-of-peril/workflows/flutterCI/badge.svg?branch=dev)
+[![Coverage Status](https://coveralls.io/repos/github/T-Davis/balloons-of-peril/badge.svg?branch=dev)](https://coveralls.io/github/T-Davis/hangman-game?branch=dev)
 
 # Balloons of Peril!
 ### How to Use
